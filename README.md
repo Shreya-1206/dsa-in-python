@@ -9,3 +9,7 @@
 
 - So hence, we dont use 2s , 3s, 4s to express the time complexity.
 - We use **Big O notation** to express the time complexity. Big O notation is used to express the Time Complexity Expression : `O( )` here inside the brackets we can mention the time taken.
+
+- Big O of a particular syntax - `#1 for(let x = 0; x < 5; x++ ){
+                                  #2              console.log(x)
+                                  #3 }`
